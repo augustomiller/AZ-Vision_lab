@@ -1,6 +1,6 @@
 <div align="center">
  
- <h1>Azure Vision Studio</h1>
+ <h1>IA Vision Studio</h1>
  
 </div>
 
