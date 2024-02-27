@@ -102,6 +102,37 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
 
 - Selecione a imagem  e pronto o Vision faz todo o trabalho!
 
+![working](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/fb49cd2f-7c6d-4b5e-aa4d-41e9979f48db)
+
+## Json gerado
+
+```
+[{
+    "recognitionModel": "recognition_01",
+    "faceRetangle": {
+        "width": 141,
+        "height": 201,
+        "left": 470,
+        "top": 186
+    },
+    "faceLandmarks": {
+        "pupilLeft": {
+            "x": 510.5,
+            "y": 256.4
+        },
+        "pupilRight": {
+            "x": 574.7,
+            "y": 256.4
+
+        },
+        "noseTip": {
+            
+        }
+    }
+}]
+
+```
+
 ## License
 
 <div align="center">
