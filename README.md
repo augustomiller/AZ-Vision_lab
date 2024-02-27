@@ -102,15 +102,47 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
 
 - Selecione a imagem  e pronto o Vision faz todo o trabalho de reconhecimento de FAce!
 
-![working](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/b51a639b-0cd8-4b23-ac8f-6073a05e5b4b)
+![working](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/75c15def-1e77-46e0-b8e5-5976bd634c1f)
 
 ## JSON gerado
 
+```json
+
+Veja o arquivo: face-detection-demo0-61ea2b10.json
+
+```
+## Agora vamos utilizar o Reconhecimento de Caracteres
+
+- Selecione "Optical character recognition"
+
+![cartec](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/bf5662a5-ec53-4029-bb86-f86bfb043f70)
+
+
+<p>
+Use a API de leitura para extrair texto impresso e manuscrito em idiomas com suporte de imagens, PDFs e arquivos TIFF. O recurso de reconhecimento óptico de caracteres (OCR) oferece suporte a imagens e documentos com idiomas mistos e não requer a especificação do idioma.
+</p>
+
+![img1](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/b7bced8c-46da-4634-8acc-f94661189daf)
+
+JSON Gerado
+
+```json
+
+Veja o arquivo: OCR1-6dda571d.json
+
+```
+
+![img2](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/f0d670b6-49e1-40ea-959a-3a0e502e200b)
+
+```json
+
+Veja o arquivo: OCR3-4782f088.json
+
+```
 
 ## Guia de início rápido do Face
 
 - [Guia rápido do Face](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/identity-client-library?tabs=windows%2Cvisual-studio&pivots=programming-language-python)
-
 
 ## License
 
