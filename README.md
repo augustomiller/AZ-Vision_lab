@@ -9,7 +9,7 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
  <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Documentação">Documentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Reconhecimento Texto">Reconhecimento Texto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Texto">Texto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Face">Face</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#License">License</a>
 </p>
@@ -122,7 +122,9 @@ Veja o arquivo: face-detection-demo0-61ea2b10.json
 Veja o arquivo: face-detection-demo3ea2b10.json
 ```
 
-## Reconhecimento Texto
+</br>
+
+## Texto
 
 ### Agora vamos utilizar o Reconhecimento de Caracteres 🚀
 
