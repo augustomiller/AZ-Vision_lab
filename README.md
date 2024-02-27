@@ -49,8 +49,35 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
 
 ## Vamos lá 🚀
 
-1: Acessar o portal do azure: https://portal.azure.com/#home
+- 1 Acessar o portal do azure: https://portal.azure.com/#home
+- 2 Selecione "+ create a resource" 
+- 3 Selecione a categoria AI + Machine Learning
+- 4 Selecione Azure AI Services (Create)
+- 5 Criar um novo Resource group, clicando em "Create New":
 
+![005](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/d790cf85-18f1-4729-be45-bb60bb9e01f4)
+
+- 6 Crie o recurso na regiao East US (é mais barato!), e dê um nome!
+
+![006](https://github.com/augustomiller/AZ-Vision_lab/assets/990877/1ef651aa-3da1-4a36-ae7f-518687a3fb85)
+
+- 7 Em "Pricing tier" selecione Standart SO
+
+![007](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/115ce80a-43d9-46cd-914c-90f4c2f2166f)
+
+- 8 Selecione o checkinbox
+
+![008](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/8c390437-9461-4999-9c47-ec32643725cc)
+
+- 9 Clique em "Review + create"
+
+![009](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/585d6e4a-189f-41a7-bec5-e9f505ed4e01)
+
+### Vai ficar parecido com essa imagem:
+
+![preview](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/39f882aa-1bc2-4973-989a-3d6b3a281675)
+
+## Agora vamos acessar o portal
 
 ## License
 
