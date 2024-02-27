@@ -122,11 +122,20 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
         },
         "pupilRight": {
             "x": 574.7,
-            "y": 256.4
+            "y": 263.7
 
         },
         "noseTip": {
-            
+            "x": 538.1,
+            "y": 301.7
+        },
+        "mounthLeft": {
+            "x": 502.2,
+            "y": 325
+        },
+        "mouthRight": {
+            "x": 568.7,
+            "y": 331.8
         }
     }
 }]
