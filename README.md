@@ -100,140 +100,43 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
 
 ![try](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/f7dd4df6-f6b0-4070-8be8-5f132e5bcc77)
 
-- Selecione a imagem  e pronto o Vision faz todo o trabalho!
+- Selecione a imagem  e pronto o Vision faz todo o trabalho de reconhecimento de FAce!
 
 ![working](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/75c15def-1e77-46e0-b8e5-5976bd634c1f)
 
-## Json gerado
+## JSON gerado
 
 ```json
-[
-  {
-    "recognitionModel": "recognition_01",
-    "faceRectangle": {
-      "width": 141,
-      "height": 201,
-      "left": 470,
-      "top": 186
-    },
-    "faceLandmarks": {
-      "pupilLeft": {
-        "x": 510.5,
-        "y": 256.4
-      },
-      "pupilRight": {
-        "x": 574.7,
-        "y": 263.7
-      },
-      "noseTip": {
-        "x": 538.1,
-        "y": 301.7
-      },
-      "mouthLeft": {
-        "x": 502.2,
-        "y": 325
-      },
-      "mouthRight": {
-        "x": 568.7,
-        "y": 331.8
-      },
-      "eyebrowLeftOuter": {
-        "x": 489.4,
-        "y": 240.3
-      },
-      "eyebrowLeftInner": {
-        "x": 527.7,
-        "y": 242.4
-      },
-      "eyeLeftOuter": {
-        "x": 499.2,
-        "y": 255.3
-      },
-      "eyeLeftTop": {
-        "x": 512.1,
-        "y": 251.9
-      },
-      "eyeLeftBottom": {
-        "x": 509.2,
-        "y": 259.8
-      },
-      "eyeLeftInner": {
-        "x": 521.7,
-        "y": 258.7
-      },
-      "eyebrowRightInner": {
-        "x": 560.6,
-        "y": 246.7
-      },
-      "eyebrowRightOuter": {
-        "x": 599.5,
-        "y": 254.3
-      },
-      "eyeRightInner": {
-        "x": 563.5,
-        "y": 264.2
-      },
-      "eyeRightTop": {
-        "x": 574.3,
-        "y": 258.4
-      },
-      "eyeRightBottom": {
-        "x": 574.7,
-        "y": 267.4
-      },
-      "eyeRightOuter": {
-        "x": 586.1,
-        "y": 264.8
-      },
-      "noseRootLeft": {
-        "x": 532.7,
-        "y": 264.2
-      },
-      "noseRootRight": {
-        "x": 550.9,
-        "y": 266.2
-      },
-      "noseLeftAlarTop": {
-        "x": 524.8,
-        "y": 288.2
-      },
-      "noseRightAlarTop": {
-        "x": 554.1,
-        "y": 291.3
-      },
-      "noseLeftAlarOutTip": {
-        "x": 516.3,
-        "y": 299.9
-      },
-      "noseRightAlarOutTip": {
-        "x": 559.2,
-        "y": 305.3
-      },
-      "upperLipTop": {
-        "x": 537.3,
-        "y": 323.7
-      },
-      "upperLipBottom": {
-        "x": 535.5,
-        "y": 329
-      },
-      "underLipTop": {
-        "x": 533.7,
-        "y": 344.7
-      },
-      "underLipBottom": {
-        "x": 532.7,
-        "y": 353.6
-      }
-    },
-    "faceAttributes": {
-      "mask": {
-        "type": "noMask",
-        "noseAndMouthCovered": false
-      }
-    }
-  }
-]
+
+Veja o arquivo: face-detection-demo0-61ea2b10.json
+
+```
+## Agora vamos utilizar o Reconhecimento de Caracteres
+
+- Selecione "Optical character recognition"
+
+![cartec](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/bf5662a5-ec53-4029-bb86-f86bfb043f70)
+
+
+<p>
+Use a API de leitura para extrair texto impresso e manuscrito em idiomas com suporte de imagens, PDFs e arquivos TIFF. O recurso de reconhecimento óptico de caracteres (OCR) oferece suporte a imagens e documentos com idiomas mistos e não requer a especificação do idioma.
+</p>
+
+![img1](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/b7bced8c-46da-4634-8acc-f94661189daf)
+
+JSON Gerado
+
+```json
+
+Veja o arquivo: OCR1-6dda571d.json
+
+```
+
+![img2](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/f0d670b6-49e1-40ea-959a-3a0e502e200b)
+
+```json
+
+Veja o arquivo: OCR3-4782f088.json
 
 ```
 

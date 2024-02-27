@@ -1,0 +1,127 @@
+[
+    {
+      "recognitionModel": "recognition_01",
+      "faceRectangle": {
+        "width": 75,
+        "height": 106,
+        "left": 169,
+        "top": 110
+      },
+      "faceLandmarks": {
+        "pupilLeft": {
+          "x": 188.1,
+          "y": 152.2
+        },
+        "pupilRight": {
+          "x": 222.6,
+          "y": 152.9
+        },
+        "noseTip": {
+          "x": 204.3,
+          "y": 170.5
+        },
+        "mouthLeft": {
+          "x": 188.3,
+          "y": 185.9
+        },
+        "mouthRight": {
+          "x": 221.3,
+          "y": 186.4
+        },
+        "eyebrowLeftOuter": {
+          "x": 176,
+          "y": 146.4
+        },
+        "eyebrowLeftInner": {
+          "x": 196.7,
+          "y": 146
+        },
+        "eyeLeftOuter": {
+          "x": 182.3,
+          "y": 152.4
+        },
+        "eyeLeftTop": {
+          "x": 188.4,
+          "y": 150.3
+        },
+        "eyeLeftBottom": {
+          "x": 187.7,
+          "y": 153.5
+        },
+        "eyeLeftInner": {
+          "x": 193.8,
+          "y": 152.4
+        },
+        "eyebrowRightInner": {
+          "x": 213.4,
+          "y": 146.4
+        },
+        "eyebrowRightOuter": {
+          "x": 235.2,
+          "y": 148.2
+        },
+        "eyeRightInner": {
+          "x": 216.9,
+          "y": 153.1
+        },
+        "eyeRightTop": {
+          "x": 222.3,
+          "y": 150.9
+        },
+        "eyeRightBottom": {
+          "x": 222.6,
+          "y": 154.3
+        },
+        "eyeRightOuter": {
+          "x": 228.4,
+          "y": 153.2
+        },
+        "noseRootLeft": {
+          "x": 199.9,
+          "y": 154
+        },
+        "noseRootRight": {
+          "x": 209.9,
+          "y": 154.2
+        },
+        "noseLeftAlarTop": {
+          "x": 197.3,
+          "y": 164.8
+        },
+        "noseRightAlarTop": {
+          "x": 212.2,
+          "y": 165.2
+        },
+        "noseLeftAlarOutTip": {
+          "x": 193.6,
+          "y": 171.1
+        },
+        "noseRightAlarOutTip": {
+          "x": 215.5,
+          "y": 171.9
+        },
+        "upperLipTop": {
+          "x": 205.1,
+          "y": 183.2
+        },
+        "upperLipBottom": {
+          "x": 204.6,
+          "y": 186
+        },
+        "underLipTop": {
+          "x": 204.4,
+          "y": 191.1
+        },
+        "underLipBottom": {
+          "x": 204.3,
+          "y": 195.8
+        }
+      },
+      "faceAttributes": {
+        "mask": {
+          "type": "noMask",
+          "noseAndMouthCovered": false
+        }
+      }
+    }
+  ]
