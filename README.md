@@ -79,6 +79,29 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
 
 ## Agora vamos acessar o portal
 
+- [Portal Vision](https://portal.vision.cognitive.azure.com/gallery/featured)
+
+- Vamos clicar em "View all resources"
+
+![portal_vision](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/3abaa1a4-458f-4521-9026-0f21daf04cc1)
+
+- Selecione o seu recurso criado anteriormente e o selecione como padrao!
+
+![recurso](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/cd1e666e-b228-4cb3-bb36-bb452f1a2383)
+
+- Vamos voltar na página anterior e selecionar a opção "Face"
+
+![face](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/c8e73180-8cb7-410f-9115-e938686e86d4)
+
+- Clique no card "Detect faces in an image"
+
+- Vamos ser redirecionados para a pagina principal da ferramenta.
+- Marque a opção "Try it out"
+
+![try](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/f7dd4df6-f6b0-4070-8be8-5f132e5bcc77)
+
+- Selecione a imagem  e pronto o Vision faz todo o trabalho!
+
 ## License
 
 <div align="center">
