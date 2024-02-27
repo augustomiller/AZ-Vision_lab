@@ -159,6 +159,10 @@ Veja o arquivo: OCR3-4782f088.json
 
 - [Guia rápido do Face](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/identity-client-library?tabs=windows%2Cvisual-studio&pivots=programming-language-python)
 
+### Guia OCR
+
+- [Guia Optical Character Recognition](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-ocr)
+
 ## License
 
 <div align="center">
