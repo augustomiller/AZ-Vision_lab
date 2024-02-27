@@ -109,9 +109,17 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
 ```json
 
 Veja o arquivo: face-detection-demo0-61ea2b10.json
-
 ```
-## Agora vamos utilizar o Reconhecimento de Caracteres
+
+![](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/727ac4fb-e53a-4299-adf8-4c88c0c0eb17)
+
+```json
+
+Veja o arquivo: face-detection-demo3ea2b10.json
+```
+
+
+## Agora vamos utilizar o Reconhecimento de Caracteres 🚀
 
 - Selecione "Optical character recognition"
 
