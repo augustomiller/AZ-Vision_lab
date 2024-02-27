@@ -9,6 +9,8 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
  <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Documentação">Documentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Reconhecimento de texto">Documentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Face">Documentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#License">License</a>
 </p>
 
@@ -77,6 +79,8 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
 
 ![preview](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/39f882aa-1bc2-4973-989a-3d6b3a281675)
 
+## Face
+
 ## Agora vamos acessar o portal
 
 - [Portal Vision](https://portal.vision.cognitive.azure.com/gallery/featured)
@@ -118,8 +122,9 @@ Veja o arquivo: face-detection-demo0-61ea2b10.json
 Veja o arquivo: face-detection-demo3ea2b10.json
 ```
 
+## Reconhecimento de texto
 
-## Agora vamos utilizar o Reconhecimento de Caracteres 🚀
+### Agora vamos utilizar o Reconhecimento de Caracteres 🚀
 
 - Selecione "Optical character recognition"
 
@@ -148,7 +153,7 @@ Veja o arquivo: OCR3-4782f088.json
 
 ```
 
-## Guia de início rápido do Face
+### Guia de início rápido do Face
 
 - [Guia rápido do Face](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/identity-client-library?tabs=windows%2Cvisual-studio&pivots=programming-language-python)
 
