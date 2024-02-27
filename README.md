@@ -102,7 +102,7 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
 
 - Selecione a imagem  e pronto o Vision faz todo o trabalho!
 
-![working](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/75c15def-1e77-46e0-b8e5-5976bd634c1f)
+![working](https://github.com/augustomiller/API_RestFul-RubyWithSinatra/assets/990877/b51a639b-0cd8-4b23-ac8f-6073a05e5b4b)
 
 ## Json gerado
 
@@ -111,119 +111,119 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
   {
     "recognitionModel": "recognition_01",
     "faceRectangle": {
-      "width": 141,
-      "height": 201,
-      "left": 470,
-      "top": 186
+      "width": 75,
+      "height": 106,
+      "left": 169,
+      "top": 110
     },
     "faceLandmarks": {
       "pupilLeft": {
-        "x": 510.5,
-        "y": 256.4
+        "x": 188.1,
+        "y": 152.2
       },
       "pupilRight": {
-        "x": 574.7,
-        "y": 263.7
+        "x": 222.6,
+        "y": 152.9
       },
       "noseTip": {
-        "x": 538.1,
-        "y": 301.7
+        "x": 204.3,
+        "y": 170.5
       },
       "mouthLeft": {
-        "x": 502.2,
-        "y": 325
+        "x": 188.3,
+        "y": 185.9
       },
       "mouthRight": {
-        "x": 568.7,
-        "y": 331.8
+        "x": 221.3,
+        "y": 186.4
       },
       "eyebrowLeftOuter": {
-        "x": 489.4,
-        "y": 240.3
+        "x": 176,
+        "y": 146.4
       },
       "eyebrowLeftInner": {
-        "x": 527.7,
-        "y": 242.4
+        "x": 196.7,
+        "y": 146
       },
       "eyeLeftOuter": {
-        "x": 499.2,
-        "y": 255.3
+        "x": 182.3,
+        "y": 152.4
       },
       "eyeLeftTop": {
-        "x": 512.1,
-        "y": 251.9
+        "x": 188.4,
+        "y": 150.3
       },
       "eyeLeftBottom": {
-        "x": 509.2,
-        "y": 259.8
+        "x": 187.7,
+        "y": 153.5
       },
       "eyeLeftInner": {
-        "x": 521.7,
-        "y": 258.7
+        "x": 193.8,
+        "y": 152.4
       },
       "eyebrowRightInner": {
-        "x": 560.6,
-        "y": 246.7
+        "x": 213.4,
+        "y": 146.4
       },
       "eyebrowRightOuter": {
-        "x": 599.5,
-        "y": 254.3
+        "x": 235.2,
+        "y": 148.2
       },
       "eyeRightInner": {
-        "x": 563.5,
-        "y": 264.2
+        "x": 216.9,
+        "y": 153.1
       },
       "eyeRightTop": {
-        "x": 574.3,
-        "y": 258.4
+        "x": 222.3,
+        "y": 150.9
       },
       "eyeRightBottom": {
-        "x": 574.7,
-        "y": 267.4
+        "x": 222.6,
+        "y": 154.3
       },
       "eyeRightOuter": {
-        "x": 586.1,
-        "y": 264.8
+        "x": 228.4,
+        "y": 153.2
       },
       "noseRootLeft": {
-        "x": 532.7,
-        "y": 264.2
+        "x": 199.9,
+        "y": 154
       },
       "noseRootRight": {
-        "x": 550.9,
-        "y": 266.2
+        "x": 209.9,
+        "y": 154.2
       },
       "noseLeftAlarTop": {
-        "x": 524.8,
-        "y": 288.2
+        "x": 197.3,
+        "y": 164.8
       },
       "noseRightAlarTop": {
-        "x": 554.1,
-        "y": 291.3
+        "x": 212.2,
+        "y": 165.2
       },
       "noseLeftAlarOutTip": {
-        "x": 516.3,
-        "y": 299.9
+        "x": 193.6,
+        "y": 171.1
       },
       "noseRightAlarOutTip": {
-        "x": 559.2,
-        "y": 305.3
+        "x": 215.5,
+        "y": 171.9
       },
       "upperLipTop": {
-        "x": 537.3,
-        "y": 323.7
+        "x": 205.1,
+        "y": 183.2
       },
       "upperLipBottom": {
-        "x": 535.5,
-        "y": 329
+        "x": 204.6,
+        "y": 186
       },
       "underLipTop": {
-        "x": 533.7,
-        "y": 344.7
+        "x": 204.4,
+        "y": 191.1
       },
       "underLipBottom": {
-        "x": 532.7,
-        "y": 353.6
+        "x": 204.3,
+        "y": 195.8
       }
     },
     "faceAttributes": {
