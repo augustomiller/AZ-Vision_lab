@@ -142,6 +142,11 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
 
 ```
 
+## Guia de início rápido do Face
+
+- [Guia rápido do Face](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/identity-client-library?tabs=windows%2Cvisual-studio&pivots=programming-language-python)
+
+
 ## License
 
 <div align="center">
