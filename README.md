@@ -49,7 +49,7 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
 
 ## Vamos lá 🚀
 
-1. Em breve teremos mais um tutorial bem legal por aqui, aguardem! ✌️
+1: Acessar o portal do azure: https://portal.azure.com/#home
 
 
 ## License
