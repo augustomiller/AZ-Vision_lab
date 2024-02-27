@@ -106,7 +106,7 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
 
 ## Json gerado
 
-```
+```json
 [
   {
     "recognitionModel": "recognition_01",
